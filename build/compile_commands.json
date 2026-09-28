@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/haidar/projects/Raytracer/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Raytracer.dir/main.cpp.o -c /home/haidar/projects/Raytracer/main.cpp",
+  "file": "/home/haidar/projects/Raytracer/main.cpp",
+  "output": "CMakeFiles/Raytracer.dir/main.cpp.o"
+}
+]
