@@ -1,7 +1,6 @@
 #pragma once
+#include "core.h"
 
-#include <cmath>
-#include <iostream>
 class vec3 {
     public:
         double e[3];
